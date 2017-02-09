@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      "jey",
+      "C:\\Users\\franklee\\Desktop\\learn\\jey"
+    ]
+  ],
+  "_cnpm_publish_time": 1485341765660,
+  "_from": "jey@latest",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/jey",
+  "_nodeVersion": "6.4.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/jey-0.0.2.tgz_1485341765424_0.09001045930199325"
+  },
+  "_npmUser": {
+    "email": "frank25184@gmail.com",
+    "name": "frank25184"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "jey",
+    "raw": "jey",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/jey/download/jey-0.0.2.tgz",
+  "_shasum": "b09bec5f27dee725042fbd6643d06e08fa0c2fd0",
+  "_shrinkwrap": null,
+  "_spec": "jey",
+  "_where": "C:\\Users\\franklee\\Desktop\\learn\\jey",
+  "author": "Frank Lee",
+  "dependencies": {},
+  "description": "Jey: a small Javascript utility tool",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "b09bec5f27dee725042fbd6643d06e08fa0c2fd0",
+    "size": 851,
+    "tarball": "http://registry.npm.taobao.org/jey/download/jey-0.0.2.tgz"
+  },
+  "keywords": [
+    "Jey",
+    "javascript framework",
+    "javascript utility function"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    "frank25184 <frank25184@gmail.com>"
+  ],
+  "name": "jey",
+  "optionalDependencies": {},
+  "publish_time": 1485341765660,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.2"
+}
