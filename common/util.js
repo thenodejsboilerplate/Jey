@@ -142,7 +142,7 @@
    **/
     trim (str) {
       if (String.prototype.trim()) {
-        return str.trim()
+        return str.trim(str)
       } else {
         // return str.replace(/(^\s+)|(\s+$)/g, '') //first version
         // got from:  http://blog.stevenlevithan.com/archives/faster-trim-javascript but faster
